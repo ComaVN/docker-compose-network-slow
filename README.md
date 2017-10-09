@@ -22,9 +22,9 @@ hello_1  | This message shows that your installation appears to be working corre
 (...)
 dockercomposenetworkslow_hello_1 exited with code 0
 
-real	0m16.756s
-user	0m0.572s
-sys	0m0.084s
+real	0m16.647s
+user	0m0.600s
+sys	0m0.048s
 ```
 
 Without defined subnet:
@@ -45,7 +45,7 @@ hello_1  | This message shows that your installation appears to be working corre
 (...)
 dockercomposenetworkslow_hello_1 exited with code 0
 
-real	0m1.717s
-user	0m0.564s
-sys	0m0.080s
+real	0m1.647s
+user	0m0.584s
+sys	0m0.056s
 ```
